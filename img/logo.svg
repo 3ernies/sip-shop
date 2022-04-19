@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1091" height="941" viewBox="0 0 1091 941">
+  <g id="Group_1" data-name="Group 1" transform="translate(-1093 -70.784)">
+    <g id="Path_17" data-name="Path 17" transform="translate(1179 90.784)" fill="none" stroke-linecap="round">
+      <path d="M450.5,0C699.3,0,901,201.7,901,450.5S699.3,901,450.5,901,0,699.3,0,450.5,201.7,0,450.5,0Z" stroke="none"/>
+      <path d="M 450.5 0 C 201.6957397460938 0 0 201.6957397460938 0 450.5 C 0 699.3042602539062 201.6957397460938 901 450.5 901 C 699.3042602539062 901 901 699.3042602539062 901 450.5 C 901 201.6957397460938 699.3042602539062 0 450.5 0 M 450.5 -20 C 709.9345703125 -20 921 191.0654907226562 921 450.5 C 921 709.9345703125 709.9345703125 921 450.5 921 C 191.0654907226562 921 -20 709.9345703125 -20 450.5 C -20 191.0654907226562 191.0654907226562 -20 450.5 -20 Z" stroke="none" fill="#8db38b"/>
+    </g>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="76" cy="80.5" rx="76" ry="80.5" transform="translate(2032 441.784)" fill="#dddada"/>
+    <path id="Path_16" data-name="Path 16" d="M76,0c41.974,0,76,36.041,76,80.5S117.974,161,76,161,0,124.959,0,80.5,34.026,0,76,0Z" transform="translate(1093 441.784)" fill="#dddada"/>
+    <path id="Path_9" data-name="Path 9" d="M34.289,0C53.226,0,68.578,15.647,68.578,34.948S53.226,69.9,34.289,69.9,0,54.25,0,34.948,15.352,0,34.289,0Z" transform="translate(2072.585 486.162)" fill="#d2ab99"/>
+    <path id="Path_15" data-name="Path 15" d="M34.289,0C53.226,0,68.578,15.647,68.578,34.948S53.226,69.9,34.289,69.9,0,54.25,0,34.948,15.352,0,34.289,0Z" transform="translate(1133.692 486.162)" fill="#d2ab99"/>
+    <text id="The_Sip_Shop" data-name="The Sip
+Shop" transform="translate(1626 533.784)" fill="#8db38b" font-size="189" font-family="BelloScriptPro-Regular, Bello Script Pro"><tspan x="-274.522" y="0">The Sip</tspan><tspan x="-177.093" y="170">Shop</tspan></text>
+  </g>
+</svg>

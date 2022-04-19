@@ -1,0 +1,138 @@
+body {
+font-family: futura-pt, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+color: #8DB38B;
+
+}
+
+a {
+	color: #56876D;
+	text-decoration: none;
+
+}
+
+header {
+font-family: futura-pt, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+	background-color: #DDDADA;
+	padding: 2.5 rem 1.5 rem;
+	border-bottom: 1rem solid #D2AB99 ;
+	text-align: center;
+
+}
+
+header a {
+
+	color: #56876D;
+
+}
+
+
+header .logo {
+	margin-bottom: 1.5rem;
+	width: 20rem;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: 0;
+}
+
+li {
+	display: inline-block;
+}
+
+header li a {
+ text-decoration: none;
+ color: ##56876D;
+ padding: 0 10px;
+}
+
+
+footer {
+	background-color: #C3C3C3;
+	padding: 2rem 1rem;
+	text-align: center;
+}
+
+header .logo {
+ margin-bottom: 1rem;
+}
+
+header li a:hover {
+ color: #ffffff;
+} 
+
+footer p {
+ margin-top: 0;
+}
+
+footer ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+footer li {
+ display: inline-block;
+}
+footer li a {
+ margin-right: .5rem;
+ text-decoration: none;
+ color: ##56876D;
+}
+footer li a:hover {
+ color: #ffffff;
+}
+
+.main-content,
+.side-content {
+ padding: 1.5rem;
+}
+
+.main-content img,
+.side-content img {
+ width: 100%;
+}
+
+
+.side-content {
+font-family: bello-pro, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.hours {
+font-family: futura-pt, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.location {
+font-family: futura-pt, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.hero {
+ position: relative;
+ background: url(../img/hero.jpg) no-repeat 50% 50%;
+ background-size: cover;
+ height: 60vh;
+}
+
+.hero-text {
+ position: absolute;
+ bottom: 2.25rem;
+ right: 1.5rem;
+ color:#ffffff ;
+
+ font-family: bello-pro, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
