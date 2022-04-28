@@ -17,10 +17,11 @@ header {
 font-family: futura-pt, sans-serif;
 font-weight: 400;
 font-style: normal;
+color: #56876D;
 
 	background-color: #DDDADA;
-	padding: 2.5 rem 1.5 rem;
-	border-bottom: 1rem solid #D2AB99 ;
+	padding: 2.5rem 1.5rem;
+	border-bottom: 1rem solid #8DB38B ;
 	text-align: center;
 
 }
@@ -29,12 +30,7 @@ header a {
 
 	color: #56876D;
 
-}
 
-
-header .logo {
-	margin-bottom: 1.5rem;
-	width: 20rem;
 }
 
 ul {
@@ -49,8 +45,9 @@ li {
 
 header li a {
  text-decoration: none;
- color: ##56876D;
+ color: #56876D;
  padding: 0 10px;
+
 }
 
 
@@ -62,6 +59,7 @@ footer {
 
 header .logo {
  margin-bottom: 1rem;
+ height: 7rem;
 }
 
 header li a:hover {
@@ -89,8 +87,7 @@ footer li a:hover {
  color: #ffffff;
 }
 
-.main-content,
-.side-content {
+main {
  padding: 1.5rem;
 }
 
@@ -104,18 +101,34 @@ footer li a:hover {
 font-family: bello-pro, sans-serif;
 font-weight: 400;
 font-style: normal;
+color: #8DB38B;
+}
+
+.side-content a h2 {
+ color: #8DB38B;
+}
+
+.side-content h2 {
+ font-family: bello-pro, sans-serif;
+font-weight: 400;
+font-style: normal;  
+color: #8DB38B; 
 }
 
 .hours {
 font-family: futura-pt, sans-serif;
 font-weight: 400;
 font-style: normal;
+padding: 1.5rem;
+color: #56876D; 
+
 }
 
-.location {
-font-family: futura-pt, sans-serif;
+.hours h2 {
+ font-family: bello-pro, sans-serif;
 font-weight: 400;
-font-style: normal;
+font-style: normal;  
+color: #8DB38B; 
 }
 
 .hero {
@@ -128,11 +141,71 @@ font-style: normal;
 .hero-text {
  position: absolute;
  bottom: 2.25rem;
- right: 1.5rem;
+ left: 1.5rem;
  color:#ffffff ;
 
  font-family: bello-pro, sans-serif;
 font-weight: 400;
 font-style: normal;
 }
+
+.hero-text a {
+    color: #ffffff ;
+}
+
+img {
+    width: 100%;
+}
+
+.services {
+
+padding: 1.5rem;
+color: #56876D;
+}
+
+.service h2 {
+ font-family: bello-pro, sans-serif;
+font-weight: 400;
+font-style: normal;
+color: #8DB38B;
+
+}
+
+
+.logistics {
+    padding: 1.5rem;
+    color: #8DB38B;
+}
+
+
+.location {
+    padding: 1.5rem;
+}
+
+@media screen and (min-width: 40em){
+ header {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ }
+
+ main .main-content {
+ width: 60%;
+ }
+ main .side-content,
+ main .hours {
+ width: 35%;
+ }
+ .container {
+ display: flex;
+ justify-content: space-between;
+}
+.container .service {
+    width: 32%;
+}
+.container div {
+    width: 49%;
+}
+}
+
 
